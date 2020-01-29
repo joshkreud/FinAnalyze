@@ -1,0 +1,19 @@
+name: FinAnalyze
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - tqdm
+  - autopep8
+  - pylint
+  - pandas
+  - altair
+  - xlwings°
+  - numba
+  - hvplot
+  - matplotlib
+  - ipywidgets
+  - ipykernel
+  - panel
+  - openpyxl
